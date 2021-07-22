@@ -3,7 +3,6 @@ from sqlite3 import Error
 from os import path, listdir
 import random
 import datetime
-
 import pandas as pd
 
 FULL_PATH = path.realpath(__file__)
